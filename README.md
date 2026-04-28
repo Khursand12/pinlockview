@@ -31,8 +31,6 @@ dependencies {
 }
 ```
 
-Replace `<RepoName>` with your GitHub repository name (example: `PinLockView`).
-
 ## Usage
 
 ### XML
