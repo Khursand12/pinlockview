@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinLockView">
+        <attr name="enableRipple" format="boolean" />
+        <attr name="enableHaptic" format="boolean" />
+        <attr name="buttonColor" format="color" />
+        <attr name="buttonStrokeColor" format="color" />
+        <attr name="buttonTextColor" format="color" />
+        <attr name="rippleColor" format="color" />
+    </declare-styleable>
+</resources>
+
