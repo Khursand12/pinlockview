@@ -9,10 +9,8 @@ Simple Android PIN entry `View` with:
 
 ## Screenshot / GIF
 
-Add a screenshot or GIF here (highly recommended). Example:
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e9dc6f61-ac96-4ad8-afe8-37dd0418d021" />
 
-```md
-![PinLockView demo](docs/pinlockview.gif)
 ```
 
 ## Installation (JitPack)
@@ -29,7 +27,7 @@ repositories {
 
 ```kotlin
 dependencies {
-    implementation("com.github.Khursand12:<RepoName>:v1.0.0")
+    implementation("com.simple.pinlockview:pinlockview:v1.0.0")
 }
 ```
 
