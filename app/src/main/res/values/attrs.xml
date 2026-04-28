@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PatternLockView1">
+        <attr name="lock_size" format="integer" />
+        <attr name="lock_nodeSize" format="dimension" />
+        <attr name="lock_nodeOnAnim" format="reference" />
+        <attr name="lock_padding" format="dimension" />
+        <attr name="lock_spacing" format="dimension" />
+        <attr name="lock_enableVibrate" format="boolean" />
+        <attr name="lock_vibrateTime" format="integer" />
+        <attr name="lock_nodeSrc" format="color|reference" />
+        <attr name="lock_nodeHighlightSrc" format="color|reference" />
+        <attr name="lock_nodeCorrectSrc" format="color|reference" />
+        <attr name="lock_nodeErrorSrc" format="color|reference" />
+        <attr name="lock_lineColor" format="color" />
+        <attr name="lock_lineCorrectColor" format="color" />
+        <attr name="lock_lineErrorColor" format="color" />
+        <attr name="lock_lineWidth" format="dimension" />
+        <attr name="lock_nodeTouchExpand" format="dimension" />
+        <attr name="lock_autoLink" format="boolean" />
+    </declare-styleable>
+
+    <!--<declare-styleable name="PatternLockView2">
+        <attr name="dotCount" format="integer"/>
+        <attr name="dotNormalSize" format="dimension"/>
+        <attr name="dotSelectedSize" format="dimension"/>
+        <attr name="pathWidth" format="dimension"/>
+        <attr name="aspectRatioEnabled" format="boolean"/>
+        <attr name="aspectRatio" format="enum">
+            <enum name="square" value="0"/>
+            <enum name="width_bias" value="1"/>
+            <enum name="height_bias" value="2"/>
+        </attr>
+        <attr name="normalStateColor" format="color"/>
+        <attr name="correctStateColor" format="color"/>
+        <attr name="wrongStateColor" format="color"/>
+        <attr name="dotAnimationDuration" format="integer"/>
+        <attr name="pathEndAnimationDuration" format="integer"/>
+    </declare-styleable>-->
+</resources>
