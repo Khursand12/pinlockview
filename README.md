@@ -9,7 +9,7 @@ Simple Android PIN entry `View` with:
 
 ## Screenshot / GIF
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e9dc6f61-ac96-4ad8-afe8-37dd0418d021" />
+<img width="800" height="1777" alt="Screenrecorder-2026-04-28-16-14-44-511-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c4b31fe4-409e-4af4-9f91-72a9053c93f4" />
 
 ```
 
