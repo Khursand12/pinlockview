@@ -27,7 +27,7 @@ repositories {
 
 ```kotlin
 dependencies {
-    implementation("com.simple.pinlockview:pinlockview:v1.0.0")
+    implementation("com.github.Khursand12:pinlockview:1.0.0")
 }
 ```
 
